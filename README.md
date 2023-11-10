@@ -31,6 +31,10 @@ My Hardware:
 
 ## Introduction
 
+Thank's to [@valnoxy](https://github.com/valnoxy)
+
+Watch this video for some change config [Link Video](https://youtube.com/clip/UgkxxrzwlMQl-F-rxeDcYc57MDgtKin9aoi6?feature=shared)
+
 ### EFI folders
 
 This repo includes multiple EFI configuations for different macOS Versions.
